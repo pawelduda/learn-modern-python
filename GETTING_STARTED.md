@@ -8,7 +8,7 @@
 $ asdf plugin-add python
 ```
 
-- [ ] Install Python plugin via asdf (optional in case of errors)
+- [ ] Install Python prerequisites (optional, in case of errors)
 ```
 https://stackoverflow.com/questions/27022373/python3-importerror-no-module-named-ctypes-when-using-value-from-module-mul#41310760
 
@@ -32,7 +32,7 @@ $ asdf install python 3.7.4
 $ asdf global python 3.7.4
 ```
 
-- [ ] Try out installation (run interactive console):
+- [ ] Try out installation (run interactive console)
 ```
 $ python
 ```
