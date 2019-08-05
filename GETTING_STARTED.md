@@ -38,7 +38,16 @@ $ python
 ```
 
 ## Next steps:
-- [ ] Go through [Automate the Boring Stuff tutorial](https://automatetheboringstuff.com) while taking notes on things that you don't understand (total beginner level, I like it very much after a few chapters)
-- [ ] Go through [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2019/spring/lectures/) - No opinion yet
-- [ ] Go through [Learn Code the Hard Way](https://learncodethehardway.org/python/) - No opinion yet
+- [ ] Go through [Automate the Boring Stuff tutorial](https://automatetheboringstuff.com)
+
+Total beginner level, I like it very much after a few chapters. It assumes no prior programming knowledge, so the first
+chapters are very simple to go through.
+
+- [ ] Go through [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2019/spring/lectures/)
+
+No opinion yet
+
+- [ ] Go through [Learn Code the Hard Way](https://learncodethehardway.org/python/)
+
+No opinion yet
 
