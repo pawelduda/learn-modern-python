@@ -1,5 +1,14 @@
 # Getting started
 
+## Prerequisites
+When copying the code blocks from this repository, always remove the leading dollar signs. They prevent the pasted
+command from being executed instantly, thus minimizing attack vectors. **Always be careful what you paste into your
+command line.**
+
+- [ ] If you don't have a machine to code on, buy yourself one of the older ThinkPad laptops - they are very
+cheap. Make it your dedicated coding hardware.
+- [ ] Install Ubuntu ([19.04](https://ubuntu.com/download/desktop/thank-you?country=PL&version=19.04&architecture=amd64) as of time of writing)
+
 ## Install Python
 - [ ] Install asdf for managing Python (and other) versions
 ```
