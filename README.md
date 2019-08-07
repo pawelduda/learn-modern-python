@@ -2,6 +2,13 @@
 
 ## Install Python
 - [ ] Install asdf for managing Python (and other) versions
+```
+$ sudo apt install \
+    automake autoconf libreadline-dev \
+    libncurses-dev libssl-dev libyaml-dev \
+    libxslt-dev libffi-dev libtool unixodbc-dev \
+    unzip curl
+```
 
 - [ ] Install Python plugin via asdf
 ```
