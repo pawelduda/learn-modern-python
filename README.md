@@ -67,3 +67,7 @@ No opinion yet
 
 No opinion yet
 
+## Still feeling not confident enough?
+At this point you are probably better than 90% of the world when it comes to the coding - you have solid knowledge for a beginner level. You should probably stop reading and start writing some code though. If you are having problems with that, message me via any preferred communication channel or:
+
+- [ ] Go through [Google's Python Class](https://developers.google.com/edu/python/)
